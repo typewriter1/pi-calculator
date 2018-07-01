@@ -1,2 +1,2 @@
-# hello-world
-A new one made by me!!!
+# Pi calculation
+Run pi.py to calculate pi. Leave it running to get more accurate results.

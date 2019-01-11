@@ -1,4 +1,5 @@
 from __future__ import print_function
+from future import division
 import random, math
 from decimal import Decimal
 noInside = 0
